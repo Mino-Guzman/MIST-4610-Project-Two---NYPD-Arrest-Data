@@ -15,7 +15,7 @@ There were no manipulations or calculations applied to the NYPD Arrest Dataset p
 ## Question 1 What is the crime rate for each of the 5 boroughs?
 
 
-![Question1](Question1.png)
+![Data Visual 1](DataVisual1.png)
 
 ## Importance
 Our client is the NYPD, this question is important for them to better understand, in general, where the most crimes are committed in the city. This information can help determine where its efforts and funding should be primarily spent, as the police stations in boroughs with higher crime may need more resources than stations in low crime areas. This funding could include more training for officers and advancements on weapons or state vehicles. This data relates to the dataset since each arrest listed contains the borough/location where the arrest took place, so we can therefore find the total count of crimes within each borough.
@@ -30,7 +30,7 @@ The difference between the five boroughs is likely due to many factors such as p
 
 
 
-![Question2](Question2.png)
+![Data Visual 2](DataVisual2.png)
 
 ## Importance
 This question is important to our client, the NYPD, to answer in order to determine what type of funding they should focus on. We assume the NYPD wants to focus its funding on the borough with the highest crime rate, which was answered in the previous question. So, by looking at violent vs. nonviolent crimes, as well as which demographics are committing these crimes, can determine the type of training officers receive, for example, whether they focus their efforts on targeting middle-aged males versus young females. Also, depending on whether or not violent or nonviolent crimes make up most of the borough’s crimes, this can determine the types of prevention programs that the NYPD can endorse. This data relates to the dataset since each arrest reports what the individual was arrested for, as well as their age and gender, so we can therefore determine who is committing what crimes in the most dangerous borough.
