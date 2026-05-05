@@ -13,6 +13,8 @@ The NYPD Arrest Data Set was published by the City of New York on Data.gov with 
 There were no manipulations or calculations applied to the NYPD Arrest Dataset prior to inputting the information into Tableau. We chose to use the NYPD Arrest Dataset as it was already comprehensive, well-organized, and appropriately formatted for our analysis. Before uploading the dataset into Tableau to begin creating our visuals we, as a group, reviewed it in order to ensure that there were no missing values, inconsistencies, or formatting issues that would negatively impact our results. Therefore, since the dataset met our standards, we were able to continue without further manipulation.
 
 ## Question 1 What is the crime rate for each of the 5 boroughs?
+
+
 ![Question 1](Question1.png)
 
 ## Importance
@@ -25,6 +27,9 @@ Question 1 - What is the crime rate for each of the 5 boroughs?
 The difference between the five boroughs is likely due to many factors such as population size, density, and wealth disparities. The data visualization allowed us to see concentration and the distribution between the boroughs, which is why we wanted to drill down into the causes in question two. 
 
 ## Question 2 Within the borough with the highest crime, who is committing the most violent vs. nonviolent crimes based on age and gender?
+
+
+
 ![Question 2](Question2.png)
 
 ## Importance
